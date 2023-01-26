@@ -1,3 +1,6 @@
-/README.md
-/.vscode
-/.ssh
+.vscode/
+README.md
+.token.txt
+
+*.out
+*.o
